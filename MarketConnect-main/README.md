@@ -239,7 +239,7 @@ WebDev_CodeChamps/
 
 ## 👥 Team
 
-- **Development Team**: VESIT WebDev CodeChamps
+- **Development Team**: Team Error 404
 - **Project Members**: 
   - [Pranav Khairnar](https://github.com/khairnarpranav)
   - [Dityaraj Singh](https://github.com/COPYNINJA6411)

@@ -239,8 +239,7 @@ WebDev_CodeChamps/
 
 ## 👥 Team
 
-- **Development Team**: Team Error 404
-- **Project Members**: 
+- **Development Team**: Code Champs
   - [Pranav Khairnar](https://github.com/khairnarpranav)
   - [Dityaraj Singh](https://github.com/COPYNINJA6411)
   - [Moin Khan](https://github.com/moinkhan0)
